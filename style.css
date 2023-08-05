@@ -11,9 +11,12 @@ body{
     width: 200px;
 }
 table{
-    border-spacing: 50px;
     align-content: center;
-    margin-left: 20rem;
+    width: auto;
+    width: 80%;
+    margin: 30px auto;
+    border-spacing: 30px;
+
 }
 div{
     color: #fbfeeb;
